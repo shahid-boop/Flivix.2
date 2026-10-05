@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fylvix</string>
+    <string name="brand_tagline">Worldwide Cinema, Series, Anime &amp; Live TV</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_tv_shows">TV Shows</string>
+    <string name="nav_series">Series</string>
+    <string name="nav_anime">Anime</string>
+    <string name="nav_live_tv">Live TV</string>
+    <string name="nav_adult">18+</string>
+    <string name="nav_genres">Genres</string>
+    <string name="nav_countries">Countries</string>
+    <string name="nav_languages">Languages</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_my_list">My List</string>
+    <string name="nav_history">History</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_admin">Admin Panel</string>
+    <string name="action_watch_now">Watch Now</string>
+    <string name="action_add_to_list">My List</string>
+    <string name="action_in_my_list">In My List</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_share">Share</string>
+    <string name="action_report">Report</string>
+    <string name="action_skip_intro">Skip Intro</string>
+    <string name="search_placeholder">Search movies, series, anime, actors, directors, countries…</string>
+    <string name="empty_results_title">No Matching Titles Found</string>
+    <string name="empty_results_subtitle">Try adjusting your filters, country, language, or search query.</string>
+    <string name="authorized_stream_notice">Authorized Fylvix HLS/DASH CDN Delivery • DRM &amp; Signed Token Verified</string>
+</resources>

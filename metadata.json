@@ -1,0 +1,6 @@
+{
+  "name": "Fylvix",
+  "description": "Worldwide entertainment streaming and discovery platform for movies, series, anime, and live TV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
